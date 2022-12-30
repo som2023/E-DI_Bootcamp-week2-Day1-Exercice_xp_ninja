@@ -1,4 +1,11 @@
- /*-----------EXERCISE_1--------------------*/
+/**********************************************************
+Correcteur: Yannick GOUGUIA
+Exercice incomplet, il faut terminer tous les exercices
+
+*********************************************************/
+
+
+/*-----------EXERCISE_1--------------------*/
 5 >= 1
 console.log(5 >= 1)//true
 0 === 1
